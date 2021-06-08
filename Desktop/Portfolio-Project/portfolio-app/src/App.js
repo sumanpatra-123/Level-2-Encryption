@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import Navbar from "./components/Navbar"
 
 function App() {
   return (
-    <h2>Portfolio project......</h2>
+    <Navbar />
   );
 }
 
